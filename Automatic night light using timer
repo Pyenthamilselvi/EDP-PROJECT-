@@ -1,0 +1,22 @@
+This project presents the design and implementation of an automatic night light
+system integrated with a timer to enhance energy efficiency and convenience. The system
+is tailored to address common challenges associated with manual control of lighting, such
+as energy wastage and inconvenience during nighttime. The automatic night light operates
+by detecting low ambient light levels using a light-dependent resistor (LDR). Once
+activated, the system provides sufficient illumination to ensure safety and visibility in dim
+environments. The integration of a timer adds an intelligent feature to the system, allowing
+the light to remain on only for a predefined duration or specific hours of the night, further
+reducing unnecessary power consumption. Key components include the LDR sensor for
+light detection, a timer circuit for controlling the operational period, and a relay for
+switching the light on and off. The circuit is designed to be cost-effective, easy to assemble,
+and adaptable to various residential and commercial environments. Additionally, the
+project prioritizes energy efficiency by utilizing LED lights, which consume significantly
+less power compared to traditional lighting solutions. This system has broad applications,
+including residential areas, staircases, pathways, and outdoor spaces, where automatic
+lighting is essential for safety and convenience. By automating the process and introducing
+a timer, this project not only reduces the need for manual operation but also promotes
+sustainable energy practices. It serves as a practical solution for modern energy conscious
+households and businesses, balancing convenience with environmental responsibility. The
+proposed design demonstrates the potential of integrating simple electronic components to
+create an efficient and user-friendly lighting system, offering a valuable contribution to
+energy-saving innovations.
